@@ -1,8 +1,7 @@
-﻿// CHANGE LOG
-// 
-// CHANGES || version VERSION
-//
-// "Enable/Disable Headbob, Changed look rotations - should result in reduced camera jitters" || version 1.0.1
+﻿// Original controller written by JeCase
+// www.jess-case.com
+// jesscasedev@gmail.com
+// https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884
 
 using System.Collections;
 using System.Collections.Generic;
